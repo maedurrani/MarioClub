@@ -9,9 +9,7 @@ header {
     top: 0;
     left: 0;
 }
-html{
-    scroll-behavior: smooth;
-  }
+
 header h1 {
     color: white;
     border: 8px solid white;
